@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Все чипы WCH: CH340, CH341, CH343, CH9102 -->
+    <usb-device vendor-id="6790" />
+    <!-- Все чипы Silicon Labs: CP210x -->
+    <usb-device vendor-id="4292" />
+    <!-- Все чипы Espressif: ESP32-S3 Native USB / JTAG -->
+    <usb-device vendor-id="12346" />
+    <!-- Все чипы FTDI и Prolific -->
+    <usb-device vendor-id="1027" />
+    <usb-device vendor-id="1659" />
+</resources>

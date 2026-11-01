@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vesta HUD Bridge v3.0</string>
+    <string name="acc_service_desc">Автоматическое чтение полного экрана Яндекс.Навигатора для проектора Lada Vesta HUD</string>
+</resources>
